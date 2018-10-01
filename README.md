@@ -1,8 +1,8 @@
-# Curso de Arduino 2018-2019#
+# Curso de Arduino 2018-2019 #
 
 
 ## Indice ##
-* [Primeros pasos con NodeMCU (1-10-2018)]()
+* [Primeros pasos con NodeMCU (1-10-2018)](https://github.com/laescuelamaker/Curso-Arduino/tree/master/Clases/Primeros-pasos-NodeMCU)
 
 
 

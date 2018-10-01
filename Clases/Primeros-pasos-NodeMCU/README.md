@@ -66,4 +66,4 @@ De está forma cuando nosotros pulsemos el botón la aplicacion mandará un "dig
 
 ## Enlaces interesantes ##
 
-* [NodeMCU - Programarfácil](tps://programarfacil.com/podcast/nodemcu-tutorial-paso-a-paso/)
+* [NodeMCU - Programarfácil](https://programarfacil.com/podcast/nodemcu-tutorial-paso-a-paso/)

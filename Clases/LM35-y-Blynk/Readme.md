@@ -60,7 +60,11 @@ void sendSensor()
   int value = analogRead(sensorPin);
   float millivolts = (value / 1023.0) * 5000;
   float t = millivolts / 10;
+  // Sensor humedad suelo
+  float sensor_humedad = analogRead(A1);
+
   Blynk.virtualWrite(V0, t);
+  Blynk.virtualWrite(V1, sensor_humedad);
 
 }
 

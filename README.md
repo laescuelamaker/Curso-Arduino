@@ -9,6 +9,7 @@
 * [LM35 y BLynk](Clases/LM35-y-Blynk)
 * [IFTT](Clases/IFTT)
 * [ThingSpeak](Clases/ThingSpeak)
+* [Pantallas TFT](Clases/TFT)
 
 
 
